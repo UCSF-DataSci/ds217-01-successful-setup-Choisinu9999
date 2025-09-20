@@ -15,5 +15,6 @@ The most exciting about programming is that I get to explore a whole new world a
 [Drop a link to something you really enjoy - could be a website, article, video, project, hobby, book, podcast, or anything else you're into]
 https://youtu.be/Sc1MUWhMG18?si=OFScQ06y3iEt53jz
 ---
+I got help from professor Seaman and tried to fix the problem using copilot.
 
 *Thank you for sharing! Your responses help me get to know you and hopefully make the course better!*
