@@ -9,8 +9,6 @@ ENV/
 env/
 .venv
 
-# Test outputs
-email_hashes.txt
 
 # Testing
 .pytest_cache/
